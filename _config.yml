@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : shwangnju@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "shwangnju@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Shuiyao_Huang"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/shuiyao-huang-63304640/"
+  orcid            : "https://orcid.org/0000-0002-6571-0738"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
