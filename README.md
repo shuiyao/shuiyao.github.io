@@ -5,8 +5,9 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 # Quick Notes
-1. Menu: _data/navigation.yml
-2. Add new Menu Item: _config.yml, Add under #Collections and #Defaults
+1. Refer to _pages/markdown.md, a great guide for editing webpages
+2. Menu: _data/navigation.yml
+3. Add new Menu Item: _config.yml, Add under #Collections and #Defaults
 
 # Instructions
 
