@@ -22,5 +22,5 @@ Headings 2
 **Special Format**
 
 Example: Image Attachment
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![A Simulated Galaxy Group](/images/galaxy_group.png)
 
