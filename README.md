@@ -6,6 +6,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 # Quick Notes
 1. Menu: _data/navigation.yml
+2. Add new Menu Item: _config.yml, Add under #Collections and #Defaults
 
 # Instructions
 
