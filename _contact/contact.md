@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: ""
 ## Shuiyao Huang
 
 <shwangnju@gmail.com>
