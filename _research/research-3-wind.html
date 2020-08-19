@@ -1,9 +1,16 @@
 ---
 title: "Modelling Galactic Winds in Cosmological Simulations"
-excerpt: "Description <br/><img src='/images/snap00814.png' style='width:800px;height:550px;'>"
+excerpt: "We launch galactic winds kinetically in our simulations using a sub-grid recipe based on the momentum-driven model. With proper choices of wind parameters, we are able to reproduce various constraints from both observational and numerical studies (<a href='https://arxiv.org/abs/1910.08199' target='_blank'>Huang et al., 2020a</a>).  <br/><img src='/images/snap00814.png' style='width:800px;height:550px;'>"
 collection: research
 ---
-Long description
-
+<p>
+Galactic winds are critical to galaxy evolution. Current cosmological simulations do not resolve the physics that naturally drives winds and rely on sub-grid recipes to launch winds. Recent investigations on the nature of outflows using high resolution zoom-in simulations with complicated wind-driving mechanism, e.g., FIRE (Muratov et al. 2015) and improved observational constraints on the statistical properties of high redshift galaxies provide insights on how to refine these recipes for cosmological simulations. 
+</p>
+<p>
+I refined our wind implementation, which parameterized winds with a mass loading factor, i.e., outflow rate/star formation rate(SFR), and a wind launch speed v. We adjusted the wind speed v to reproduce the wind behavior predicted from the high resolution FIRE simulations. We also experimented with several different choices of the mass loading factor to find out what scalings are required to reproduce the observed galactic stellar mass functions from z = 0 to z = 4. Our fiducial recipe matches a broad range of observables such as the star formation history, mass-metallicity relation and cold gas fraction. However, we also find that small changes to the wind launch algorithm have a large impact on galaxy growth and gas properties in the CGM. This highlights the need for a more robust and controllable modeling of wind propagation in the CGM (<a href='https://arxiv.org/abs/1910.08199' target='_blank'>Huang et al., 2020a</a>).
+</p>
+<p>
+The movie below shows the growth and evolution of an intermediate mass galaxy. The outflows are represented by greenish circles and can be seen over the entire life of this galaxy.
+</p>
 <iframe src="https://player.vimeo.com/video/446943530" width="640" height="427" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/446943530">Simulation of an Intermediate-Mass Galactic Halo</a> from <a href="https://vimeo.com/user120780304">S. Huang</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
