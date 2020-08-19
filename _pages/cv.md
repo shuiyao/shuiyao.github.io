@@ -9,29 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](http://shuiyao.github.io/files/cv.pdf) as a pdf file.
+
 ## Education
-======
+
 * Ph.D in Astrophysics, University of Massachusetts, Amherst, 2020 (expected)
 * B.S. in Astronomy & Astrophysics, Nanjing University, 2011
 
+## Research Interests
+
+* Galaxy formation, galactic winds, circumgalactic medium, hydrodynamics, cosmological simulations
+
 ## Scholarships and Awards
-======
-* 2018  Astronomy Graduate Program Fellowship
-* 2015  Astronomy Graduate Program Fellowship
+
+* 2018    Astronomy Graduate Program Fellowship
+* 2015    Astronomy Graduate Program Fellowship
 
 ## Programming Skills
-======
+
 * C, Python, C++, Linux, shell scripting, Emacs
 
 ## Conferences
-======
-* _Sep._ 2018   Conference on _"The HI/Story of the Nearby Universe"_, Groningen, The Netherlands
-* _Sep._ 2018   15th Postdam Thinkshop - _"The role of feedback in galaxy formation: from small-scale winds to large-scale outflows"_, Potsdam, Germany
-* _Oct._ 2017   MPA-UWC workshop on _"Simulating the Cold Gas Content of Galaxies Across Cosmic Time"_, Cape Town, South Africa
-* _Nov._ 2016   MPA-UWC Workshop II: _"A Cosmological Framework for Understanding the Cold Gas Content of Galaxies"_, Cape Town, South Africa
+
+* _Sep._ 2018      Conference on _"The HI/Story of the Nearby Universe"_, Groningen, The Netherlands
+* _Sep._ 2018      15th Postdam Thinkshop - _"The role of feedback in galaxy formation: from small-scale winds to large-scale outflows"_, Potsdam, Germany
+* _Oct._ 2017      MPA-UWC workshop on _"Simulating the Cold Gas Content of Galaxies Across Cosmic Time"_, Cape Town, South Africa
+* _Nov._ 2016      MPA-UWC Workshop II: _"A Cosmological Framework for Understanding the Cold Gas Content of Galaxies"_, Cape Town, South Africa
 
 ## Publications
-======
+
 See the [Publications](http://shuiyao.github.io/publications "Publications") page.
 
 <!---

@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[List of Publications](http://shuiyao.github.io/files/publications.pdf)
+[Download](http://shuiyao.github.io/files/publications.pdf) the list of publications as a PDF File.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
