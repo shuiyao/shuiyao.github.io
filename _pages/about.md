@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![A Simulated Galaxy Group](/images/galaxy_group.png)
-
+[![A Simulated Galaxy Group](/images/galaxy_group.png)](https://vimeo.com/446945789 "Formation of a Galaxy Cluster")
